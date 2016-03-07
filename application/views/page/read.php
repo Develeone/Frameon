@@ -1,0 +1,3 @@
+<?
+$this->renderPartial('pages/'.$id);
+?>
